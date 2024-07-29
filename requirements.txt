@@ -1,0 +1,7 @@
+ollama
+streamlit
+langchain
+langchain-community
+langgraph
+typing-extensions
+duckduckgo-search
